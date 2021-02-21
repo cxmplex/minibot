@@ -1,0 +1,9 @@
+{
+	"name": "test",
+	"shortName": "tst",
+	"themeColor": "0000ff",
+	"localization": "en-US",
+	"games": ["WoW.Retail", "WoW.Classic"],
+	"loginText": "login!",
+	"hiddenAddOns": []
+}
