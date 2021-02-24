@@ -558,6 +558,14 @@ wmbapi.ConnectWebsocket({
 });
 ```
 
+- `success = DisconnectFromServer(reason)`
+
+Disconnects from the connected realm server.
+
+```lua
+-- reason (number): The system reason of the disconnection, in integer.
+```
+
 ## In-World (Action)
 
 - `ClickPosition(x, y, z[, right])`
