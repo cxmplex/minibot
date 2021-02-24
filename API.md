@@ -564,6 +564,7 @@ Disconnects from the connected realm server.
 
 ```lua
 -- reason (number): The system reason of the disconnection, in integer.
+-- success (boolean): Whether the disconnection succeeds.
 ```
 
 ## In-World (Action)
