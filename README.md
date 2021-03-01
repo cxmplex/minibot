@@ -108,7 +108,7 @@ As a normal Bot user, the steps to get onboard are within a couple of minutes.
   <img src="images/windows-version.png" width="300" />
 
 - Make sure your PC meets the minimum hardware requirement.
-  - For Intel users (preferrably for stability), your CPU must be Core Ivy Bridge (3rd generation) or later.
+  - For Intel users, your CPU must be Core Ivy Bridge (3rd generation) or later.
   - For AMD users, your CPU must be Ryzen series.
 
 - Make sure virtualization is enabled correctly in your PC BIOS setting, verified by [Leomoon CPU-V](https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/).
