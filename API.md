@@ -651,13 +651,9 @@ Stops the current falling of the character right now.
 
 Enable/Disable flying mode of the character. (HINT: DO NOT enable flying while falling or you would get disconnected)
 
-Due to 9.0 changes, this API stops working in Retail. We are working on alternative solutions, but please sit tight.
-
 - `isFlying = IsFlyingModeEnabled()`
 
 Gets whether flying mode is enabled for the character.
-
-Due to 9.0 changes, this API stops working in Retail. We are working on alternative solutions, but please sit tight.
 
 - `modes = GetNoClipModes()`
 
