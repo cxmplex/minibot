@@ -649,7 +649,9 @@ Stops the current falling of the character right now.
 
 - `EnableFlyingMode(enabled)`
 
-Enable/Disable flying mode of the character. (HINT: DO NOT enable flying while falling or you would get disconnected)
+Enable/Disable flying mode of the character. You should use `MoveForward/MoveBackward` with `SetPitch()` like swimming to move around in the world when flying mode is on.
+
+HINT: DO NOT enable flying while falling or you would get disconnected.
 
 - `isFlying = IsFlyingModeEnabled()`
 
