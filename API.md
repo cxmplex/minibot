@@ -585,6 +585,8 @@ Sets the player vertical pitch, in radian.
 
 Moves the player to a specific position, using CTM.
 
+Hint: You must enable the system CVar [autoInteract](https://wow.gamepedia.com/CVar_autoInteract) to make this work, the same as enabling "Click To Move" in game settings.
+
 [Back to Top](#custom-api)
 
 ## In-World (Aura)
